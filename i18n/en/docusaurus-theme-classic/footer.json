@@ -1,0 +1,6 @@
+{
+  "link.item.label.Guía": {
+    "message": "Guide",
+    "description": "The label of footer link with label=Guía linking to /docs/reconocer-phishing"
+  }
+}

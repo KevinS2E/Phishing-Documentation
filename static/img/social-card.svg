@@ -1,0 +1,26 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F0FDFA"/>
+      <stop offset="0.52" stop-color="#E0F2FE"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="120" x2="500" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="56" fill="url(#bg)"/>
+  <rect x="72" y="72" width="360" height="486" rx="36" fill="rgba(255,255,255,0.72)"/>
+  <rect x="458" y="96" width="650" height="438" rx="40" fill="rgba(15,23,42,0.76)"/>
+  <circle cx="240" cy="235" r="108" fill="url(#accent)"/>
+  <path d="M240 161L183 182V242C183 289.2 205.2 326.6 240 356C274.8 326.6 297 289.2 297 242V182L240 161Z" fill="#F8FAFC"/>
+  <path d="M218 246L235 263L269 227" stroke="#0F766E" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="520" y="186" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">Portal de concientización</text>
+  <text x="520" y="248" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800">Phishing Awareness</text>
+  <text x="520" y="320" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="30">Guía corporativa para reconocer señales de fraude</text>
+  <rect x="520" y="376" width="180" height="54" rx="27" fill="#0F766E"/>
+  <text x="554" y="412" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Reportar</text>
+  <rect x="720" y="376" width="248" height="54" rx="27" fill="rgba(255,255,255,0.12)"/>
+  <text x="754" y="412" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Ver señales</text>
+</svg>
