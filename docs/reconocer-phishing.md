@@ -36,7 +36,7 @@ Si un correo pide acción inmediata, dinero, contraseñas o apertura de archivos
 
 ## Ejemplo 1
 
-![IMAGEN 1 - CORREO DE REFERENCIA](/images/Example1.png)
+![IMAGEN 1 - CORREO DE REFERENCIA](/images/Example2.png)
 
 *IMAGEN 1 - CORREO DE REFERENCIA*
 
@@ -53,7 +53,7 @@ Aunque el correo parezca familiar, un archivo adjunto inesperado siempre debe tr
 
 ## Ejemplo 2
 
-![IMAGEN 2 - CORREO DE REFERENCIA](/images/Example2.png)
+![IMAGEN 2 - CORREO DE REFERENCIA](/images/Example1.png)
 
 *IMAGEN 2 - CORREO DE REFERENCIA*
 
