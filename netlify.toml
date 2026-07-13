@@ -1,0 +1,15 @@
+[build]
+  command = "npm run build"
+  publish = "build"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Docusaurus generates a localized 404 page per locale (build/en/404.html),
+# but Netlify's automatic 404 detection only picks up the top-level build/404.html.
+# Without this, a broken link under /en/* would render the Spanish 404 page instead
+# of the English one that already exists in the build output.
+[[redirects]]
+  from = "/en/*"
+  to = "/en/404.html"
+  status = 404

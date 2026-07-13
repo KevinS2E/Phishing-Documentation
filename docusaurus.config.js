@@ -18,7 +18,7 @@ const config = {
     },
   },
 
-  url: 'https://example.com',
+  url: 'https://phishing-guide.netlify.app/',
   baseUrl: '/',
 
   organizationName: 'documentation',
